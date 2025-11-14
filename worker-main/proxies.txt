@@ -1,0 +1,2 @@
+https://brd-customer-hl_68475e70-zone-residential_proxy1:rwfauybxzbz7@brd.superproxy.io:33335
+https://brd-customer-hl_068ee7f1-zone-mobile_proxy1:4hk1tw8hqst2@brd.superproxy.io:33335
